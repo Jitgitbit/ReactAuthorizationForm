@@ -36,7 +36,7 @@ class Contact extends React.Component {
             client@example.com
           </li>
           <li>
-            555.555.5555
+            123.456.7890
           </li>
       </ul>
     );
